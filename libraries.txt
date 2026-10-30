@@ -1,0 +1,5 @@
+# Bibliotecas usadas no Wokwi
+Blynk
+DHT sensor library
+Adafruit SSD1306
+Adafruit GFX Library
